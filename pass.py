@@ -8,21 +8,7 @@ yellow='\033[93m'
 cyan='\033[96m'
 blue='\033[94m'
 
-print (red+b+"""
-                    _
-                   /_/-     .'''.
-                =O(_))))...'    `.
-                   \_\-
-          __,   ____,___,_  _,  ____ ____,____, 
-        (-|   (-/_|(- /(-\_/  (-|__|-|_,(-|_,  
-         _|__,_/  |,_/__,_|,   _|__)_|__,_|__, 
-        (    (     (    (     (    (    (      
-
-"""+b+red)
-
-print (gren+b+"            <===[[ coded by N17R0 ]]===>"+b+gren)
-print (" ")
-print (yellow+b+"     <---( search on youtube noob hackers)--->"+b+yellow)
+print (red+b+"soci-concept.blogspot.com")
 print (" ")
 
 length=int(input(cyan+b+"Enter the number of characters: "+b+cyan))
